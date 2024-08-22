@@ -3,6 +3,8 @@
 #### Introduction
 The Employees Service microservice manages employee-related operations and integrates with other services. It is built using Spring Boot and functions as a discovery client with Eureka for service discovery. This README provides an overview of the components, functionalities, and setup instructions for the Employees Service.
 
+Address Service: https://github.com/azimsh3r/address-service
+
 #### Components
 
 ##### 1. Security Configuration
